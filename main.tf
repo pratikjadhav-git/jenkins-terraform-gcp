@@ -1,5 +1,5 @@
 provider "google" {
-  project = "jenkins-terraform-480215"  # <--- REPLACE THIS with your actual Project ID
+  project = "jenkins-terraform-480312"  # <--- REPLACE THIS with your actual Project ID
   region  = "us-central1"
   zone    = "us-central1-a"
 }
